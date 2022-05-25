@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DimitriSI
 - 👀 I’m interested in math, physics and its applications in mechanics and materials.
-- 🌱 I’m currently in the French school of enineering Ecole des Ponts ParisTech.
+- 🌱 I’m currently in the French school of engineering Ecole des Ponts ParisTech.
 - 📫 Mail : dimitri.sircat@eleves.enpc.fr
 
 <!---
